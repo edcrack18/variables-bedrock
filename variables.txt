@@ -1,3 +1,4 @@
 version_0_13_2 = "https://archive.org/download/minecraft-uwp-backup-8-10-24_20241007/Release/x64/Microsoft.MinecraftUWP_0.132.0.0_x64__8wekyb3d8bbwe.7z"
 version_0_14_0_1 = "https://archive.org/download/minecraft-uwp-backup-8-10-24_20241007/Release/x64/Microsoft.MinecraftUWP_0.140.1.0_x64__8wekyb3d8bbwe.7z"
 version_0_14_2_1 = "https://archive.org/download/minecraft-uwp-backup-8-10-24_20241007/Release/x64/Microsoft.MinecraftUWP_0.142.1.0_x64__8wekyb3d8bbwe.7z"
+API_KEY_G = "AIzaSyBdDs_irninAe8ABVNA5C-YwOyEcNPoIP4"
